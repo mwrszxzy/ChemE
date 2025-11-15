@@ -1,2 +1,2 @@
 # ChemE
-Blending Process
+Blending Process - versão University of Colorado 
