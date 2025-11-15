@@ -1,2 +1,2 @@
 # ChemE
-Blending Process - versão University of Colorado 
+Blending Process - University of Colorado v1, Mass transfer
